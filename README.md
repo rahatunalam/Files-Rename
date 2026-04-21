@@ -59,7 +59,21 @@ Before → G:\Exam\photo1.jpg
 After  → G:\Exam\Exam2\1.jpg
 
 Key Differences Between the Two Scripts
-Featuremanin.py 1jpg_converter 2Actual image conversion❌ No✅ Yes (via Pillow)Handles RGBA / transparency❌ No✅ Yes (converts to RGB)External dependencyNonepillowSource format.png.jpgOutput format.jpg (rename only).jpg (re-encoded)Starting number3011Error handling❌ No✅ Yes (try/except)
+Feature                   manin.py j       pg_converter
+
+Actual image conversion      ❌ No          ✅ Yes (via Pillow)
+
+Handles RGBA / transparency  ❌ No          ✅ Yes (converts to RGB)
+
+External dependency          None              pillow
+
+Source format                .png              .jpg
+
+Output format               .jpg (rename only)  .jpg (re-encoded)
+
+Starting number              301                1
+
+Error handling              ❌ No           ✅ Yes (try/except)
 
 Project Structure
 your-folder/
