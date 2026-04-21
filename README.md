@@ -59,6 +59,7 @@ Before → G:\Exam\photo1.jpg
 After  → G:\Exam\Exam2\1.jpg
 
 Key Differences Between the Two Scripts
+
 Feature                   manin.py j       pg_converter
 
 Actual image conversion      ❌ No          ✅ Yes (via Pillow)
